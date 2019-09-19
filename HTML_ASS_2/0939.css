@@ -1,0 +1,91 @@
+body
+{
+	background-color: cyan;
+}
+ol {
+  list-style-image: url('pic.gif');
+  background-repeat:none; 
+}
+table{
+	border-style:double;
+	align:center;
+}
+table,th,td{
+	border:1px solid black;
+}
+Home,Line Breaks,tags{
+	text-align:justify;
+	text-justify: inter-word;
+}
+#content
+{
+	width: 1000px;
+	margin: 0px auto; 
+	background-color: white;
+	border: 1px solid;
+}
+
+#banner
+{
+	padding:0;
+	height: 150px;
+	background-color: red;
+}
+
+#menu
+{
+	height: 25px;
+	background-color: yellow;
+}
+
+#main_content
+{
+	height: 400px;
+	font-family:  font-family: "Times New Roman", Times, serif;
+	font-size: 15px;
+}
+
+#body_content
+{
+	width: 700px;
+	float: left;
+	background-color: green;
+	height: 100%;
+}
+
+#advertisement
+{
+	width: 300px;
+	float: left;
+	background-color: #112233;
+	height: 100%;
+}
+
+#footer
+{
+	font-size: 13px;
+	text-align:center;
+	height: 40px;
+	clear: both;
+	background-color: pink;
+}
+
+a:link {
+  color: green;
+  text-decoration:none;
+}
+
+a:visited {
+  color: green;
+  text-decoration:none;
+}
+
+a:hover {
+  color: red;
+  text-decoration:none;
+}
+
+a:active {
+  color: yellow;
+  text-decoration:none;
+}
