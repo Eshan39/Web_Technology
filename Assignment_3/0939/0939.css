@@ -1,0 +1,227 @@
+body{
+	margin-top:3px;
+	background-color: white;
+	margin-left:150px;
+	margin-right: 150px;
+
+}
+#Content{
+	width:900px;
+	background-color:#210d7e;
+	font-family:  "Times New Roman", Times, sans-serif;
+	margin:0px auto;
+	height:905px;
+}
+#banner{
+	background-color:#210d7e;
+	background-image: url('Online-casino.jpg');
+	background-size: 100% 100%;
+	height:118px;
+	width:100%;
+}
+#topDiv{
+	background-color:#210d7e;
+	background-image: url('topbar.gif');
+	background-size:100% 100%;
+	background-repeat: repeat-x;
+	height:30px;
+	width:100%;
+}
+#mainContent{
+	background-color: #210d7e;
+	height:745px;
+	width: 100%;
+	position:relative;
+}
+#main_left{
+	background-color: #210d7e;
+	background-repeat: repeat-x;
+	height:710px;
+	width: 150px;
+	float: left;
+}
+.cas{
+	color:white;
+	text-align:center;
+}
+.menu1{
+	background-image: url('menubg2.jpg');
+	width: 95%;
+	height:170px;
+	margin-top:10px;
+	padding-top: 10px;
+	margin-bottom:2%;
+	margin-left: 2px;
+	margin-top: 10px:
+}
+.menu3{
+	background-image: url('menubg2.jpg');
+	width: 95%;
+	height: 240px;
+	padding-top: 10px;
+	margin-top:15px;
+	margin-left: 2px;
+	margin-bottom:18px;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  padding-top: 3px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+}
+.menu2{
+	background-image: url('menubg.jpg');
+	position: relative;
+	text-align:center;
+	font-size: 12px;
+	width: 90%;
+	height: 168px;
+	margin:auto;
+}
+.menu4{
+	background-image: url('menubg.jpg');
+	position: relative;
+	text-align:center;
+	font-size: 12px;
+	width: 90%;
+	height: 236px;
+	margin: auto;
+}
+.menu_img{
+	position: relative;
+	width:100%;
+	padding:1%;
+	height:120px;
+	margin-top:8px;
+	margin-left:7px;
+}
+.img{
+	position: absolute;
+    top: 82%;
+    left: 17%;
+}
+.onlybutton{
+	position: relative;
+    top: 82%;
+    left: 17%;
+	height: 20px;
+	width:100px;
+}
+.butn{
+	position:absolute;
+	top:80%;
+	left:10%;
+}
+
+
+#main_mid{
+	background-color:#210d7e;
+	height:100%;
+	width: 600px;
+	float: left;
+	position: relative;
+}
+.main_mid_content{
+	width:598px;
+	height:136px;
+	background-color:red;
+	position:relative;
+	margin-top:10px;
+	padding-right:2px;
+}
+
+.mid_content_1_1{
+	height:100%;
+	width:145px;
+	float:left;	
+	background-color:red;
+}
+.mid_content_1_2{
+	height:100%;
+	width:445px;
+	margin-right:2px;
+	float:left;
+	background-color:red;
+}
+.head{
+	text-align: center;
+	color:yellow;
+	
+}
+.paragraph{
+	color:white;
+	font-family: "Times New Roman", Times, sans-serif;
+	font-size:13px;
+	text-align:justify;
+}
+#img_cont{
+	position: absolute;
+    top: 82%;
+    left: 17%;
+}
+#download{
+	background-image:url('downloadbg.gif');
+	position: relative;
+	width:145px;
+	margin-left:4px;
+	margin-right:2px;
+	height:190px;
+	margin-top:10px;
+	margin-bottom:5px;
+}
+
+#downloadnow{
+	background-image:url('downloadbg.png');
+	height:170px;
+	width:85%;
+	padding: 2%;
+	padding-right:10%;
+	padding-left:10%;
+}
+#d{
+	padding-top:5px;
+	color:white;
+	text-align:center;
+}
+#main_right{
+	background-color: #210d7e;
+	background-repeat: repeat-x;
+	height:100%;
+	width: 150px;
+	float: left;
+	margin: auto;
+}
+
+#botomDiv{
+	background-image: url('btmbar.gif');
+	background-size:100% 100%;
+	background-repeat: repeat-x;
+	height:30px;
+	width:100%;
+	background-color:#210d7e;
+}
+#footer{
+	background-color:#210d7e;
+	height:50px;
+	border-top: 4px solid #210d7e;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+a:hover{
+	color:red;
+}
+#anchorFont{
+    font-family:  "Times New Roman", Times, sans-serif;
+    font-size: 14px;
+    text-align: center;
+	color:white;
+}
